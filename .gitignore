@@ -1,0 +1,10 @@
+#Files to ignore
+
+#Ignored files with suffix
+*.DS_Store
+*tmp
+
+#Ignored directories
+*/build/*
+*/.gradle/*
+
