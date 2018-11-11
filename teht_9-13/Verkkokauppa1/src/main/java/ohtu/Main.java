@@ -3,9 +3,9 @@ package ohtu;
 
 import ohtu.verkkokauppa.Kauppa;
 import ohtu.verkkokauppa.Kirjanpito;
-import ohtu.verkkokauppa.Varasto;
-import ohtu.verkkokauppa.Pankki;
-import ohtu.verkkokauppa.Viitegeneraattori;
+//import ohtu.verkkokauppa.Varasto;
+//import ohtu.verkkokauppa.Pankki;
+//import ohtu.verkkokauppa.Viitegeneraattori;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.FileSystemXmlApplicationContext;
 
