@@ -5,7 +5,7 @@
 *tmp
 
 #Ignored directories
-*/build/*
-*/.gradle/*
+**/build/*
+**/.gradle/*
 
 /teht_9-13/Verkkokauppa1/build/
